@@ -1,0 +1,37 @@
+# AI assistants and local workspace metadata
+.openai/
+.codex/
+.agents/
+.claude/
+.cursor/
+.windsurf/
+.aider*
+.continue/
+.copilot/
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+.cursorrules
+.cursorignore
+.windsurfrules
+.github/copilot-instructions.md
+.github/instructions/
+.github/prompts/
+*chat-history*
+*ai-notes*
+# Secrets and local files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+node_modules/
+.cache/
+.playwright/
+playwright-report/
+test-results/
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
